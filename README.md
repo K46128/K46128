@@ -1,6 +1,7 @@
 ## sup
 
 I love mechanics
+
 currently working on 3d printers, CNC machines, etc.
 
 planning an upcoming CNC project
