@@ -1,5 +1,9 @@
-## Hi there 👋
+## sup
 
+I love mechanics
+currently working on 3d printers, CNC machines, etc.
+
+planning an upcoming CNC project
 <!--
 **K46128/K46128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
