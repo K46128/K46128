@@ -1,6 +1,6 @@
 ## sup
 
-I love mechanics
+I likemechanics
 
 currently working on 3d printers, CNC machines, etc.
 
